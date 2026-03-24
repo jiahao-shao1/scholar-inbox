@@ -1,3 +1,8 @@
+> **⚠️ This repository has been archived.**
+> Development has moved to the [sjh-skills](https://github.com/jiahao-shao1/sjh-skills) monorepo under [`skills/scholar-agent`](https://github.com/jiahao-shao1/sjh-skills/tree/main/skills/scholar-agent).
+
+---
+
 # Scholar Agent
 
 > A taste-aware research agent that discovers papers you'll love and reads them deeply — powered by [Scholar Inbox](https://www.scholar-inbox.com) + [NotebookLM](https://notebooklm.google.com).
